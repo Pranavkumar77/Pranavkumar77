@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **React, NodeJS,JavaScript**
 
+- 🔗 My Personal Portfolio link: **https://pranavkumar77.github.io/**
+
 - 📫 How to reach me **p.pranavkumar77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
